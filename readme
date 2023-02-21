@@ -1,0 +1,5 @@
+
+npm install typescript --save-dev      
+npm install socket.io
+npm install express  
+npm install @types/express @types/socket.io -D
